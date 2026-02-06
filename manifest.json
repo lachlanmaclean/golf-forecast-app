@@ -1,0 +1,17 @@
+{
+  "name": "Golf Forecast",
+  "short_name": "Golf Forecast",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#E8F5E9",
+  "theme_color": "#2D6A4F",
+  "description": "Your daily Weather Score and golf-friendly forecast. Sid the cat checks the weather every day so you're always ready for a round.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {"src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
